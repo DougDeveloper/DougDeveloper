@@ -1,11 +1,15 @@
 ### Olá! Sou o Douglas! 👋
 
+### Hi there! I am Douglas!
+
 Sou estudante fullstack na escola de programação Digital House.
 
-<div align="space-around">
+I am a fullstack student at the Digital House programming school.
+
+<div align="center">
   <a href="https://github.com/DougDeveloper">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DougDeveloper&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougDeveloper&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DougDeveloper&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=false"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougDeveloper&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -15,9 +19,6 @@ Sou estudante fullstack na escola de programação Digital House.
 </div>
  
 <div>
-  <a href = "mailto:d.ferreira.bat@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   </a>
-  
-  
-  
- 
+  <br>
+  <a href = "mailto:d.ferreira.bat@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">         </a>
 </div>
