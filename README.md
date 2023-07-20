@@ -2,9 +2,9 @@
 
 ### Hi there! I am Douglas!
 
-Sou estudante fullstack na escola de programação Digital House.
+Sou estudante de em desenvolvimento de sistemas.
 
-I am a fullstack student at the Digital House programming school.
+I am a web developer student. Constantly trying to learn something new.
 
 <div align="center">
   <a href="https://github.com/DougDeveloper">
@@ -16,6 +16,9 @@ I am a fullstack student at the Digital House programming school.
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+          
 </div>
  
 <div>
